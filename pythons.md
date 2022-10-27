@@ -23,14 +23,11 @@ Filter non-unique list values
 Python, List
 Creates a list with the non-unique values filtered out.
 
-Filter unique list values
-Python, List
-Creates a list with the unique values filtered out.
+Sort dictionary by value
+Python, Dictionary
+Sorts the given dictionary by value.
 
-Group list elements
+Map list to dictionary
 Python, List
-Groups the elements of a list based on the given function.
+Maps the values of a list to a dictionary using a function.
 
-Shuffle list
-Python, List
-Randomizes the order of the values of an list, returning a new list.
