@@ -22,3 +22,15 @@ Splits values into two groups, based on the result of the given filtering functi
 Filter non-unique list values
 Python, List
 Creates a list with the non-unique values filtered out.
+
+Filter unique list values
+Python, List
+Creates a list with the unique values filtered out.
+
+Group list elements
+Python, List
+Groups the elements of a list based on the given function.
+
+Shuffle list
+Python, List
+Randomizes the order of the values of an list, returning a new list.
